@@ -1,4 +1,4 @@
-# TJDDoge_TJD - Binance Smart Chain
+# TJDoge_TJD - Binance Smart Chain
  TJ Doge - TJD Token Contract Solidity File
  1. **Network:** Binance Smart Chain Network
  2. **BSC Contract Address:** 0xaf99a4f99b79e4651f1ab259b835c886699b6278
